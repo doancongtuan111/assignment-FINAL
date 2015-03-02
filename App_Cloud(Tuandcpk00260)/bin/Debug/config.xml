@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<address>"Data Source=TUANDC-PC\SQLEXPRESS;Initial Catalog=QLBH2;Persist Security Info=True;User ID=tuan-cloud;Password=530440"</address>
+</config>
