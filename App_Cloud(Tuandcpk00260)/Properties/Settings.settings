@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="App_Cloud_Tuandcpk00260_.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="App_Cloud_Tuandcpk00260__localhost_bus_data" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://doancongtuan123-001-site1.myasp.net/bus_data.asmx</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
